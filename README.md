@@ -13,7 +13,7 @@ To begin you will need to install the Arduino IDE (Integrated Development Enviro
 
 ### Upload
 4. Navigate to BikeLock>Lock>Lock.ino
-5. In the arduino IDE File>Preferances>Additional Boards Manager URLs: then paste 
+5. In the arduino IDE File>Preferances>Additional Boards Manager URLs: then paste https://adafruit.github.io/arduino-board-index/package_adafruit_index.json
 7. 
 8. Check the progress in the console at the bottom of the screen
 9. 
