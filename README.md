@@ -6,7 +6,7 @@ To begin you will need to install the Arduino IDE (Integrated Development Enviro
 
 ### Downloading the repository
 1. To download this repository navigate to 
-[github.com/Lanceamillion/ChemECarShield](https://github.com/Lanceamillion/BikeLock) 
+[https://github.com/Lanceamillion/BikeLock](https://github.com/Lanceamillion/BikeLock) 
 (you may already be here)
 2. In the top right Code>Download ZIP
 3. Extract the .zip to a convenient location (Maybe your desktop or documents folder)
