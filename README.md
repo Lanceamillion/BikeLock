@@ -20,6 +20,7 @@ To begin you will need to install the Arduino IDE (Integrated Development Enviro
 5. Once it loads search for "m0" that is "em *zero*" in the search box
 6. Hover over **Adafruit SAMD Boards** by **Adafruit** and click install
 7. Once the install is done click close and go **Tools>Board: "...">Adafruit Feather M0 (SAMD21)** and click on it
+You will not need to do anything above this point again
 8. Plug in the lock
 9. Now **Tools>Port:>COM?** Select the com port of the lock if you can't immediately tell what one it is try unplugging the device and figure out what port disappears
 10. Look near the top of the code for the line **#define threshold ...** and change the value to desired (if this is what you want to do)
