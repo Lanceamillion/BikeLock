@@ -15,7 +15,7 @@ To begin you will need to install the Arduino IDE (Integrated Development Enviro
 ### Upload
 1. Navigate to **BikeLock>Lock>Lock.ino**
 2. In the arduino IDE **File>Preferences>Additional Boards Manager URLs:** then paste "https://adafruit.github.io/arduino-board-index/package_adafruit_index.json" into the box
-3. Press OK
+3. Press OK and then restart the Arduino IDE
 4. Now **Tools>Board: "...">Boards Manager...**
 5. Once it loads search for "m0" that is "em *zero*" in the search box
 6. Hover over **Adafruit SAMD Boards** by **Adafruit** and click install
